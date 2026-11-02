@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://responsible-robot-benchmark.github.io/sitemap.xml
